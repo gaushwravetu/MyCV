@@ -37,6 +37,12 @@ h3{
 	overflow:hidden;
 	border-bottom:#FF8C00 dotted 2px;
 }
+.copyright {
+  color: #393e46;
+  text-align: center;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
 
 .btn {
   background: #11cdd4;
