@@ -17,6 +17,10 @@ h3{
 	font-style:italic;
 	font-size:17px;
 }
+h5{
+  font-size: small;
+  font-style: oblique;
+}
 #container{
 	width:930px;
 	margin:50px auto 10px auto;
